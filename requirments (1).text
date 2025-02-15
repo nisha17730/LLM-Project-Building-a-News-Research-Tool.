@@ -1,0 +1,9 @@
+langchain-core==0.0.10  # Adjust the version as needed
+langchain-openai==0.0.10  # Adjust the version as needed
+newsapi-python==0.2.6  # Adjust the version as needed
+streamlit==1.22.0  # Adjust the version as needed
+streamlit
+openai
+langchain
+langchain-openai
+newsapi-python
